@@ -15,7 +15,7 @@
       </li>
       {{ range .Site.Params.sections }}
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="/#{{.}}">{{ . | i18n }}</a>
+        <a class="nav-link js-scroll-trigger" href="{{ (printf "#%s" .) | relURL }}">{{ . | i18n }}</a>
       </li>
       {{ end }}
       {{ if .Site.Params.showContact}}
