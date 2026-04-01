@@ -2,20 +2,20 @@
 	{
 		"name":"SOFTWARE ENGINEERING FOR CLOUD, BLOCKCHAIN & IOT",
 		"description": "ADVANCED CERTIFICATION IN SOFTWARE ENGINEERING FOR CLOUD, BLOCKCHAIN & IOT",
-		"badge":"/images/iitm-logo.png",
+		"badge":"images/iitm-logo.png",
 		"proof":"https://www.mygreatlearning.com/certificate/HREDQXSB"
 	},
 	{
 		"name":"CompTIA Network+",
 		"description": "CompTIA Network+",
-		"badge":"/images/comptia-network-plus.jpg",
+		"badge":"images/comptia-network-plus.jpg",
 		"proof":"https://www.credly.com/badges/16b4c7c5-bfb5-460e-98f3-2f3eada345ae"
 
 	},
 	{
 		"name":"CompTIA Security+",
 		"description": "CompTIA Security+",
-		"badge":"/images/comptia-security-plus.jpg",
+		"badge":"images/comptia-security-plus.jpg",
 		"proof":"https://www.credly.com/badges/1454159b-3ccc-4345-af7b-ff58053a90c5"
 	}
 ]
