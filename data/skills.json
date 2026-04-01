@@ -1,0 +1,29 @@
+[
+  {
+      "grouping":"Frontend",
+      "skills":["JavaScript","TypeScript", "React","Redux", "Angular","RxJS","HTML5", "CSS3"]
+  },{
+      "grouping":"Backend",
+      "skills":[ "Java","Python","PHP", "MySQL", "REST API", "Spring Boot"]
+  },
+  {
+      "grouping":"AI / ML",
+      "skills":[ "Ollama", "LLM API Integration", "Speech-to-Text (Whisper)", "Prompt Engineering", "AI-Powered Workflows"]
+  },
+  {
+      "grouping":"Tools & Platforms",
+      "skills":["Windsurf","Cursor","VS Code", "GitHub","Bitbucket","MCP", "Jenkins", "JIRA", "Docker"]
+  },
+  {
+    "grouping":"Cybersecurity",
+      "skills":["OWASP Top 10","Secure Coding", "Burp Suite Pro"]
+  },
+  {
+    "grouping":"Testing",
+      "skills":["Cypress","Jest"]
+  },
+  {
+    "grouping":"Others",
+      "skills":["MFE","SPA", "WCAG", "Bootstrap", "jQuery", "MaterialUI", "Agile", "Scrum"]
+  }
+]

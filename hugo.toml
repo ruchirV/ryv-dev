@@ -1,0 +1,29 @@
+baseURL = 'https://ruchirv.dev/'
+locale = 'en-us'
+title = 'Ruchir'
+theme = 'resume'
+
+[params]
+    firstName = "Ruchir"
+    lastName = "Vasavada"
+    address = "Halifax, NS, Canada"
+    phone = "1-902-789-6610"
+    email = "ruchir.vasavada@gmail.com"
+    profileImage = "images/profile-pic.jpg"
+    description = "Software developer with extensive experience in front-end."
+    showSkills = true
+    showProjects = true
+    showExperience = true
+    showEducation = true
+    showCertifications = true
+    showSocializations = true
+    sections = ["skills","experience","education"]
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/ruchir-vasavada-987a4612/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/ruchirV/"
+

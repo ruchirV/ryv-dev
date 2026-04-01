@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Senior Software Developer (React+Angular F/E + Java B/E)",
+        "company":"OneTrust LLC",
+        "summary":"- Developed and maintained micro-frontend AngularJS modules for a large enterprise security platform, delivering scalable UI components used across multiple products\n - Maintain React/Python legacy code base and look into production defects and feature enhancements\n- Implemented secure coding practices and input validation to mitigate common web vulnerabilities (XSS, injection)\n- Worked closely with backend teams to integrate secure REST APIs and authentication flows\n- Delivered WCAG-compliant accessible UI components",
+        "range":"April 2022 - March 2026"
+    },
+    {
+        "role":"Senior Software Developer (React F/E & Java-MySQL B/E)",
+        "company":"Barrington Consulting",
+        "summary":"- Architect & develop a React-Redux web application for the Nova Scotia Government [Business Licencing](https://businesslicencing.novascotia.ca)\n- Implemented secure authentication flows and API integrations\n- Collaborated with backend teams to ensure secure data exchange and API validation\n- Contributed to backend development using Java and MySQL",
+        "range":"January 2021 - March 2022"
+    },
+    {
+        "role":"Lead Software Developer",
+        "company":"ExperienceFlow",
+        "summary":"- Led development of React-Redux web applications for enterprise customer experience platforms\n - Integrated Firebase messaging APIs for real-time chat functionality\n - Defined engineering best practices, development workflows, and coding standards\n - Collaborated with product teams to define technical solutions and delivery timelines",
+        "range":"November 2017 - December 2020"
+    }
+]
