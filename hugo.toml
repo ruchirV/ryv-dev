@@ -1,4 +1,4 @@
-baseURL = 'https://ruchirv.github.io/'
+baseURL = 'https://ruchirv.dev/'
 locale = 'en-us'
 title = 'Ruchir'
 theme = 'resume'
