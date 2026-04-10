@@ -17,7 +17,7 @@ theme = 'resume'
     showEducation = true
     showCertifications = true
     showSocializations = true
-    sections = ["skills","experience","education"]
+    sections = ["skills","experience","education","creations","contributions"]
 
 [[params.handles]]
     name = "LinkedIn"
